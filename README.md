@@ -17,35 +17,40 @@ TaskHive is a Java Swing desktop application that helps users organize tasks acr
 
 ---
 
-### Application Demo
+## Application Demo
 
 The gif speed is increased so marking complete appears yellow, but it actually marks it green
 
 <img src="TaskHiveDemo-ezgif.com-video-to-gif-converter.gif" width="1000">
 
-### Dashboard View
+## Dashboard View
+<img src="Screenshot 2025-12-03 145245.png" width="800">
 
-<img src = "" width = 800>
+## Task List View
 
-### Task List View
+<img src="Screenshot 2025-12-03 145401.png" width="800">
 
-<img src = "" width = 800>
+## Create List Dialog
+<img src="Screenshot 2025-12-03 145418.png" width="600">
 
-### Create List Dialog
+## Create Task Dialog
 
-<img src = "" width = 800>
+<img src="Screenshot 2025-12-03 145435.png" width="600">
 
-### Create Task Dialog
+## Search
+### Search Title Example
+ <img src="Screenshot 2025-12-03 145523.png" width="800"> 
 
-<img src = "" width = 800>
+### Search Description Example
+ <img src="Screenshot 2025-12-03 145503.png" width="800">
 
-### Search
+## Filter
 
-<img src = "" width = 800>
+<img src="Screenshot 2025-12-03 145547.png" width="800">
 
-### Filter
 
-<img src = "" width = 800>
+
+
 
 
 
