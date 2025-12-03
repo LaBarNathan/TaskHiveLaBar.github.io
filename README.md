@@ -12,7 +12,6 @@ TaskHive is a Java Swing desktop application that helps users organize tasks acr
 - **Task Management** — Add tasks with descriptions, deadlines, and priority markers. Mark tasks as completed or delete them.
 - **Visual Priority & Overdue Indicators** — Tasks dynamically color-code based on urgency.
 - **Search & Filtering** — Search across lists/tasks and filter by category, due date, created date, or priority.
-- **Recurring Tasks** *(optional depending on your implementation)*.
 - **Local Persistence** — All lists and tasks save automatically and reload on next startup.
 - **Robust OOP Architecture** — Built using MVC plus Strategy, Composite, Observer, and Factory patterns.
 
