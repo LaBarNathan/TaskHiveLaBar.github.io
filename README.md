@@ -20,4 +20,4 @@ TaskHive is a Java Swing desktop application that helps users organize tasks acr
 
 ### Application Demo
 
-
+<img src="TaskHiveDemo-ezgif.com-video-to-gif-converter.gif" width="1000">
